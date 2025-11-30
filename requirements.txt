@@ -1,0 +1,15 @@
+numpy>=1.23
+pillow>=10.0
+opencv-python
+torchmetrics
+matplotlib
+tqdm
+pandas
+scikit-image
+gradio==4.44.1
+fastapi<0.115
+starlette<0.39
+gradio_client>=0.16
+munch
+einops
+protobuf<5
